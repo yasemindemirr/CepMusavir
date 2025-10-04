@@ -1,4 +1,4 @@
-# 📱 CepMüşavir
+# 💵 CepMüşavir
 
 **CepMüşavir** is a mobile application designed to assist accountants and finance professionals by providing practical financial tools.  
 The app aims to simplify daily financial tasks, speed up calculations, and improve efficiency.  
@@ -33,7 +33,7 @@ The main goal is to digitalize accounting processes and provide a user-friendly 
   
 ---
 
-## Application Representation
+## 📱 Application Representation
 
 ![1](https://github.com/user-attachments/assets/9461809c-f016-42c5-b500-f3738c356158)
 ![2](https://github.com/user-attachments/assets/1d95de2b-de71-454d-854f-b52144368766)
