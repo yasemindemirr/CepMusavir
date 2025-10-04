@@ -30,7 +30,7 @@ The main goal is to digitalize accounting processes and provide a user-friendly 
 - **Kotlin** – Android app development  
 - **Android Studio** – Development environment  
 - **XML / Compose UI** – Interface design
-- 
+  
 ---
 
 ## Application Representation
